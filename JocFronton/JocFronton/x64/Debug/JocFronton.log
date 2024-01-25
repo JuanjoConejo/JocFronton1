@@ -1,0 +1,14 @@
+﻿  JocFronton.cpp
+E:\AluCiclesGS1\JocFronton\JocFronton\JocFronton.cpp(9,38): warning C4244: 'argumento': conversión de 'T' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+E:\AluCiclesGS1\JocFronton\JocFronton\JocFronton.cpp(9,26): warning C4244: 'argumento': conversión de 'T' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+E:\AluCiclesGS1\JocFronton\JocFronton\JocFronton.cpp(35,50): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\JocFronton\JocFronton\JocFronton.cpp(35,40): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  JocFronton.vcxproj -> E:\AluCiclesGS1\JocFronton\x64\Debug\JocFronton.exe
